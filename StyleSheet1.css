@@ -1,0 +1,105 @@
+﻿* {
+    min-width: 26px;
+    min-height: 20px;
+}
+
+body {
+    background-color: black;
+
+}
+
+#form1 {
+    background-color: #7dace4;
+    width: 500px;
+    padding: 50px;
+    display: flex;
+    border-radius: 80px
+}
+
+.auto-style1 {
+    width: 100%;
+    height: 521px;
+    border-radius: 25px
+}
+
+.auto-style2 {
+    width: 123px;
+}
+
+.auto-style3 {
+    margin-left: 0;
+}
+
+.auto-style4 {
+    margin-left: 0px;
+}
+
+
+
+#GridView1 {
+    font-family: 'Cascadia Mono';
+    color: black;
+    border: 3px solid black;
+    background-color:#6ab9f5;
+    padding: 10px;
+    padding-right:20px;
+   
+    
+}
+
+.auto-style8 {
+    height: 51px;
+}
+
+.auto-style10 {
+    height: 62px;
+}
+.auto-style17{
+    font-size:18px;
+    font-family:'Franklin Gothic' ;
+    }
+
+ 
+#lblinsert{
+    background-color:lightblue;
+    border:3px solid black;
+       font-size:20px;
+       font-family:Arial;
+       border-radius:10px
+}
+#lblinsert:hover {
+    background-color: #4aaacf;
+    color: firebrick;
+    border: 3px solid #00ffe9;
+    font-family:Dungeon;
+    font-size:larger
+}
+#btnDelete {
+    background-color: lightblue;
+    border: 3px solid black;
+    font-size: 20px;
+    font-family: Arial;
+    border-radius: 10px
+}
+    #btnDelete:hover {
+        background-color: #4aaacf;
+        color: firebrick;
+        border: 3px solid #00ffe9;
+        font-family: Dungeon;
+        font-size: larger;
+    }
+
+#btnview {
+    background-color: lightblue;
+    border: 3px solid black;
+    font-size: 20px;
+    font-family: Arial;
+    border-radius: 10px
+}
+    #btnview:hover {
+        background-color: #4aaacf;
+        color: firebrick;
+        border: 3px solid #00ffe9;
+        font-family: Dungeon;
+        font-size: larger
+    }
